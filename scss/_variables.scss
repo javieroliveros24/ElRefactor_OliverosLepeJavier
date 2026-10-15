@@ -1,0 +1,15 @@
+// Nueva Paleta de Colores
+$color-primario: #0A4F60;         // Color para la cabecera superior y bordes
+$color-secundario: #2A9D8F;       // Color secundario / hovers
+$color-fondo-pagina: #F4F6F7;     // Fondo general de la web
+$color-fondo-tarjeta: #FFFFFF;    // Fondo de las cajas/tarjetas
+$color-texto-oscuro: #2B2D42;     // Color de texto
+$color-nav-oscuro: #1D2D35;       // Franja de la barra de navegación y footer
+$color-nav-activo: #E9C46A;       // Subrayado o color activo del elemento del menú
+$color-blanco: #FFFFFF;
+
+// Tipografías
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@400;500&display=swap');
+
+$fuente-titulos: 'Montserrat', sans-serif;
+$fuente-cuerpo: 'Roboto', sans-serif;
